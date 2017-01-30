@@ -1,0 +1,4 @@
+/*
+JS Name String Resolver DB (https://github.com/mgreter/nsr.js)
+- Copyright (c) 2017 Marcel Greter (http://github.com/mgreter)
+*/

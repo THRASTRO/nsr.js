@@ -1,0 +1,82 @@
+BODY {
+	font-size: 12px;
+	font-family: verdana;
+}
+
+H1 {
+	border-bottom: 1px solid #C9C9C9;
+}
+
+H1, H2, H3 {
+	margin: 0px 0px;
+	padding-bottom: 4px;
+	margin-bottom: 6px;
+}
+
+H4 {
+	margin: 0px 0px;
+}
+
+#wrapper {
+	max-width: 740px;
+	margin: auto auto;
+	overflow: hidden;
+}
+
+#main {
+	margin-top: 10px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+#left {
+	width: 45%;
+	float: left;
+	padding: 5px 5px;
+	overflow: hidden;
+}
+
+#right {
+	width: 45%;
+	float: right;
+	padding: 5px 5px;
+	overflow: hidden;
+}
+
+#searchbox {
+	padding-bottom: 4px;
+}
+
+#characters {
+	font-size: 12px;
+	font-family: tahoma;
+}
+
+#suggestions {
+	padding: 8px;
+	border: 1px solid #C9C9C9;
+}
+
+#result {
+	padding: 8px;
+	margin-top: 16px;
+	border: 1px solid #C9C9C9;
+}
+
+#searchbox INPUT {
+	width: 100%;
+	padding: 2px 4px;
+	box-sizing: border-box;
+	border: 1px solid #C9C9C9;
+}
+
+#footer {
+	clear: both;
+	margin-top: 12px;
+	border-top: 1px solid #C9C9C9;
+	padding-top: 4px;
+}
+
+#footer .copy {
+	float: right;
+}
